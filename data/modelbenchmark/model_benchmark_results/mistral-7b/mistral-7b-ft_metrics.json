@@ -1,0 +1,33 @@
+{
+  "model": "mistral-7b-ft",
+  "base_model": "mistralai/Mistral-7B-Instruct-v0.3",
+  "adapter_repo": "YangZexi/mistral-7b-stance-lora-v2",
+  "accuracy": 0.8118518518518518,
+  "macro_f1": 0.5873753947066354,
+  "weighted_f1": 0.8158861268414276,
+  "precision_macro": 0.5979060765519332,
+  "recall_macro": 0.5883709695539827,
+  "per_class_f1": {
+    "Zustimmung": 0.7790262172284644,
+    "Ablehnung": 0.8720626631853786,
+    "Neutral": 0.6984126984126984
+  },
+  "confusion_matrix": [
+    [
+      104,
+      24,
+      22
+    ],
+    [
+      7,
+      334,
+      45
+    ],
+    [
+      6,
+      21,
+      110
+    ]
+  ],
+  "inference_time_per_1000": 203.95522294221104
+}

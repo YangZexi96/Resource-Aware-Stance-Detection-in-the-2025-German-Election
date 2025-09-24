@@ -1,0 +1,22 @@
+[
+  {
+    "metric": "VI",
+    "KL": 0.1303,
+    "JSD": 0.0318
+  },
+  {
+    "metric": "ASI",
+    "KL": 0.1478,
+    "JSD": 0.0387
+  },
+  {
+    "metric": "SupportDist",
+    "KL": 0.1345,
+    "JSD": 0.0331
+  },
+  {
+    "metric": "RejectDist",
+    "KL": 0.1426,
+    "JSD": 0.0353
+  }
+]

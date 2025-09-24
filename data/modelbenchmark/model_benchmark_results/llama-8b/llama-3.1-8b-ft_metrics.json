@@ -1,0 +1,33 @@
+{
+  "model": "llama-3.1-8b-ft",
+  "base_model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "adapter_repo": "YangZexi/llama-3.1-8B-Instruct-stance-lora-v2",
+  "accuracy": 0.8340740740740741,
+  "macro_f1": 0.8000163224151521,
+  "weighted_f1": 0.8311494457895011,
+  "precision_macro": 0.8212820512820512,
+  "recall_macro": 0.7836288057521626,
+  "per_class_f1": {
+    "Zustimmung": 0.7928571428571428,
+    "Ablehnung": 0.8847583643122676,
+    "Neutral": 0.7224334600760456
+  },
+  "confusion_matrix": [
+    [
+      111,
+      28,
+      11
+    ],
+    [
+      11,
+      357,
+      19
+    ],
+    [
+      8,
+      35,
+      95
+    ]
+  ],
+  "inference_time_per_1000": 200.1625703882288
+}

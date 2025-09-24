@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env/
+.venv/
+env/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Keys (never upload)
+keys/
+
+# Data (ignore only raw + processed)
+data/raw/**
+data/processed/**
+
+# Models & Outputs
+Output/
+checkpoints/
+*.bin
+*.pt
+*.h5
+*.safetensors
+
+# Colab / temporary
+*.tmp
+*.swp

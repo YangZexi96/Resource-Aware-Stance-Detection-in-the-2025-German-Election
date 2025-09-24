@@ -1,0 +1,8 @@
+﻿party;chi2;p_value;dof;n_total;cross_distribution;within_distribution
+FDP;3189.78;0.0;2;35470;{'Ablehnung': 75.41, 'Neutral': 14.84, 'Zustimmung': 9.75};{'Ablehnung': 52.1, 'Neutral': 14.41, 'Zustimmung': 33.49}
+AfD;13122.46;0.0;2;84711;{'Ablehnung': 81.96, 'Neutral': 9.29, 'Zustimmung': 8.75};{'Ablehnung': 48.06, 'Neutral': 11.33, 'Zustimmung': 40.62}
+CDU/CSU;2963.18;0.0;2;160686;{'Ablehnung': 76.11, 'Neutral': 11.96, 'Zustimmung': 11.92};{'Ablehnung': 66.2, 'Neutral': 11.76, 'Zustimmung': 22.04}
+B90/GRÜNE;6258.85;0.0;2;98588;{'Ablehnung': 77.53, 'Neutral': 12.46, 'Zustimmung': 10.01};{'Ablehnung': 58.18, 'Neutral': 12.43, 'Zustimmung': 29.38}
+SPD;696.02;0.0;2;11161;{'Ablehnung': 75.89, 'Neutral': 13.44, 'Zustimmung': 10.67};{'Ablehnung': 55.83, 'Neutral': 14.26, 'Zustimmung': 29.91}
+BSW;671.02;0.0;2;11612;{'Ablehnung': 75.97, 'Neutral': 13.47, 'Zustimmung': 10.56};{'Ablehnung': 55.48, 'Neutral': 16.45, 'Zustimmung': 28.07}
+LINKE;2182.69;0.0;2;11763;{'Ablehnung': 76.36, 'Neutral': 14.86, 'Zustimmung': 8.78};{'Ablehnung': 40.15, 'Neutral': 15.01, 'Zustimmung': 44.84}

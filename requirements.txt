@@ -1,0 +1,13 @@
+beautifulsoup4==4.13.5
+gdeltdoc==1.12.0
+loguru==0.7.3
+numpy==1.24.4
+openai==0.28.0
+pandas==1.5.3
+playwright==1.50.0
+Requests==2.32.5
+scikit_learn==1.2.1
+setuptools==80.9.0
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.52.3
